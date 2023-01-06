@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sebasmedina2003" alt="sebasmedina2003" /></a> </p>
 
-- 🌱 I’m currently learning **java, mongodb, MySQL**
+- 🌱 I’m currently learning **kotlin, mongodb, MySQL**
 
-- 💬 Ask me about **python and SQLite**
+- 💬 Ask me about **python, SQLite, java**
 
 - 📫 How to reach me **sebasmedina2003@gmail.com**
 
