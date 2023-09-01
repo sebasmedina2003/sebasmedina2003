@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sebastian Medina</h1>
-<h3 align="center">A passionate frontend developer from Venezuela</h3>
+<h3 align="center">A passionate backend developer from Venezuela</h3>
 
 - 🌱 I’m currently learning **Frameworks**
 
